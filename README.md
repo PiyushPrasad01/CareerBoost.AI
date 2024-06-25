@@ -7,11 +7,7 @@ Welcome to CareerBoost.AI, your comprehensive platform designed to prepare engin
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
